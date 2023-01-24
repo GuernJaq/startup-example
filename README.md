@@ -1,5 +1,2 @@
 # startup-example
-Change from my development environment!
-Change from Github!
-Conflict development environment!
-Conflict Github
+I've barely used Github so this is all pretty new to me, I like the fact that it's all synced up, that will make any cross-computer usage much easier. Plus, if I think of a last minute change to anything, it seems like I can just add that in Github itself and then open it up in my actual editor later to check if it works. That's extremely useful, because I often think of solutions while away from my computer. The use of commit messages should also help me keep track of when I programmed each part, making it much easier to figure out what each piece of code was meant to do if I need to revisit it later. 
